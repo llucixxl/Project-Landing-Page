@@ -35,7 +35,7 @@ a {
     display: flex;
     justify-content: center;
     margin-top: 80px;
-    gap: 70px;
+    gap: 60px;
 }
 .left-text {
     width: 450px;
@@ -94,6 +94,27 @@ div.card-img {
 }
 .card-text {
     text-align: center;
+}
+.section-three {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    background-color: #E5E7EB;
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+}
+.quote {
+    width: 780px;
+    font-size: 36px;
+    color: #1F2937;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+.author {
+    font-weight: bold;
+    padding-left: 540px;
 }
 
 
