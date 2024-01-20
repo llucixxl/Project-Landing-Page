@@ -2,18 +2,32 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 body {
     height: 100vh;
 }
+.section-one {
+    height: 500px;
+    background-color: #1F2937;
+}
 .header {
     display: flex;
     justify-content: space-evenly;
+    padding: 20px;
+}
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
 }
 ul {
     display: flex;
     list-style-type: none;
+    gap: 40px;
 }
 a {
     text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
 }
