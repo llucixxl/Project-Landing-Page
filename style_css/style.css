@@ -149,6 +149,13 @@ button.call-button {
     border-radius: 10px;
     border: 2px solid #E5E7EB;
 }
+footer {
+    text-align: center;
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 20px 0;
+}
 
 
 
