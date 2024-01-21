@@ -4,9 +4,6 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-body {
-    height: 100vh;
-}
 .section-one {
     height: 500px;
     background-color: #1F2937;
